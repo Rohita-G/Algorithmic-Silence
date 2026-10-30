@@ -1,0 +1,59 @@
+turn_id,act,scene,character_raw,character,line,word_count,char_count,prev_character,next_character,has_question,has_exclamation,deference_count
+135,1,3,OPHELIA,OPHELIA,Do you doubt that?,4,18,LAERTES,LAERTES,1,0,0
+137,1,3,OPHELIA,OPHELIA,No more but so?,4,15,LAERTES,LAERTES,1,0,0
+139,1,3,OPHELIA,OPHELIA,"I shall the effect of this good lesson keep As watchman to my heart. But, good my brother, Do not, as some ungracious pastors do, Show me the steep and thorny way to heaven, Whiles, like a puffed and reckless libertine, Himself the primrose path of dalliance treads And recks not his own rede.",54,293,LAERTES,LAERTES,0,0,0
+145,1,3,OPHELIA,OPHELIA,"'Tis in my memory locked, And you yourself shall keep the key of it.",14,68,LAERTES,LAERTES,0,0,0
+148,1,3,OPHELIA,OPHELIA,"So please you, something touching the Lord Hamlet.",8,50,POLONIUS,POLONIUS,0,0,0
+150,1,3,OPHELIA,OPHELIA,"He hath, my lord, of late made many tenders Of his affection to me.",14,67,POLONIUS,POLONIUS,0,0,1
+152,1,3,OPHELIA,OPHELIA,"I do not know, my lord, what I should think.",10,44,POLONIUS,POLONIUS,0,0,1
+154,1,3,OPHELIA,OPHELIA,"My lord, he hath importuned me with love In honorable fashion--",11,63,POLONIUS,POLONIUS,0,0,1
+156,1,3,OPHELIA,OPHELIA,"And hath given countenance to his speech, my lord, With almost all the holy vows of heaven.",17,91,POLONIUS,POLONIUS,0,0,1
+158,1,3,OPHELIA,OPHELIA,"I shall obey, my lord.",5,22,POLONIUS,,0,0,1
+275,2,1,OPHELIA,OPHELIA,"O, my lord, my lord, I have been so affrighted!",10,47,POLONIUS,POLONIUS,0,1,2
+277,2,1,OPHELIA,OPHELIA,"My lord, as I was sewing in my closet, Lord Hamlet, with his doublet all unbraced, No hat upon his head, his stockings fouled, Ungartered, and down-gyved to his ankle, Pale as his shirt, his knees knocking each other, And with a look so piteous in purport As if he had been loosed out of hell To speak of horrors--he comes before me.",63,333,POLONIUS,POLONIUS,0,0,1
+279,2,1,OPHELIA,OPHELIA,"My lord, I do not know, But truly I do fear it.",12,47,POLONIUS,POLONIUS,0,0,1
+281,2,1,OPHELIA,OPHELIA,"He took me by the wrist and held me hard. Then goes he to the length of all his arm, And, with his other hand thus o'er his brow, He falls to such perusal of my face As he would draw it. Long stayed he so. At last, a little shaking of mine arm, And thrice his head thus waving up and down, He raised a sigh so piteous and profound As it did seem to shatter all his bulk And end his being. That done, he lets me go, And, with his head over his shoulder turned, He seemed to find his way without his eyes, For out o' doors he went without their helps And to the last bended their light on me.",125,590,POLONIUS,POLONIUS,0,0,0
+283,2,1,OPHELIA,OPHELIA,"No, my good lord, but as you did command I did repel his letters and denied His access to me.",20,93,POLONIUS,POLONIUS,0,0,0
+462,3,1,OPHELIA,OPHELIA,"Madam, I wish it may.",5,21,QUEEN GERTRUDE,POLONIUS,0,0,0
+467,3,1,OPHELIA,OPHELIA,"Good my lord, How does your Honor for this many a day?",12,54,HAMLET,HAMLET,1,0,1
+469,3,1,OPHELIA,OPHELIA,"My lord, I have remembrances of yours That I have longed long to redeliver. I pray you now receive them.",20,104,HAMLET,HAMLET,0,0,1
+471,3,1,OPHELIA,OPHELIA,"My honored lord, you know right well you did, And with them words of so sweet breath composed As made the things more rich. Their perfume lost, Take these again, for to the noble mind Rich gifts wax poor when givers prove unkind. There, my lord.",46,245,HAMLET,HAMLET,0,0,1
+473,3,1,OPHELIA,OPHELIA,My lord?,2,8,HAMLET,HAMLET,1,0,1
+475,3,1,OPHELIA,OPHELIA,What means your Lordship?,4,25,HAMLET,HAMLET,1,0,1
+477,3,1,OPHELIA,OPHELIA,"Could beauty, my lord, have better commerce than with honesty?",10,62,HAMLET,HAMLET,1,0,1
+479,3,1,OPHELIA,OPHELIA,"Indeed, my lord, you made me believe so.",8,40,HAMLET,HAMLET,0,0,1
+481,3,1,OPHELIA,OPHELIA,I was the more deceived.,5,24,HAMLET,HAMLET,0,0,0
+483,3,1,OPHELIA,OPHELIA,"At home, my lord.",4,17,HAMLET,HAMLET,0,0,1
+485,3,1,OPHELIA,OPHELIA,"O, help him, you sweet heavens!",6,31,HAMLET,HAMLET,0,1,0
+487,3,1,OPHELIA,OPHELIA,"Heavenly powers, restore him!",4,29,HAMLET,HAMLET,0,1,0
+489,3,1,OPHELIA,OPHELIA,"O, what a noble mind is here o'erthrown! The courtier's, soldier's, scholar's, eye, tongue, sword, Th' expectancy and rose of the fair state, The glass of fashion and the mold of form, Th' observed of all observers, quite, quite down! And I, of ladies most deject and wretched, That sucked the honey of his musicked vows, Now see that noble and most sovereign reason, Like sweet bells jangled, out of time and harsh; That unmatched form and stature of blown youth Blasted with ecstasy. O, woe is me T' have seen what I have seen, see what I see!",99,545,HAMLET,KING CLAUDIUS,0,1,0
+521,3,2,OPHELIA,OPHELIA,"No, my lord.",3,12,HAMLET,HAMLET,0,0,1
+523,3,2,OPHELIA,OPHELIA,"Ay, my lord.",3,12,HAMLET,HAMLET,0,0,1
+525,3,2,OPHELIA,OPHELIA,"I think nothing, my lord.",5,25,HAMLET,HAMLET,0,0,1
+527,3,2,OPHELIA,OPHELIA,"What is, my lord?",4,17,HAMLET,HAMLET,1,0,1
+529,3,2,OPHELIA,OPHELIA,"You are merry, my lord.",5,23,HAMLET,HAMLET,0,0,1
+531,3,2,OPHELIA,OPHELIA,"Ay, my lord.",3,12,HAMLET,HAMLET,0,0,1
+533,3,2,OPHELIA,OPHELIA,"Nay, 'tis twice two months, my lord.",7,36,HAMLET,HAMLET,0,0,1
+535,3,2,OPHELIA,OPHELIA,"What means this, my lord?",5,25,HAMLET,HAMLET,1,0,1
+537,3,2,OPHELIA,OPHELIA,Belike this show imports the argument of the play.,9,50,HAMLET,HAMLET,0,0,0
+539,3,2,OPHELIA,OPHELIA,Will he tell us what this show meant?,8,37,HAMLET,HAMLET,1,0,0
+541,3,2,OPHELIA,OPHELIA,"You are naught, you are naught. I'll mark the play.",10,51,HAMLET,PROLOGUE,0,0,0
+544,3,2,OPHELIA,OPHELIA,"'Tis brief, my lord.",4,20,HAMLET,HAMLET,0,0,1
+564,3,2,OPHELIA,OPHELIA,"You are as good as a chorus, my lord.",9,37,HAMLET,HAMLET,0,0,1
+566,3,2,OPHELIA,OPHELIA,"You are keen, my lord, you are keen.",8,36,HAMLET,HAMLET,0,0,1
+568,3,2,OPHELIA,OPHELIA,Still better and worse.,4,23,HAMLET,HAMLET,0,0,0
+572,3,2,OPHELIA,OPHELIA,The King rises.,3,15,HAMLET,HAMLET,0,0,0
+772,4,5,OPHELIA,OPHELIA,Where is the beauteous Majesty of Denmark?,7,42,QUEEN GERTRUDE,QUEEN GERTRUDE,1,0,0
+774,4,5,OPHELIA,OPHELIA,How should I your true love know From another one? By his cockle hat and staff And his sandal shoon.,20,100,QUEEN GERTRUDE,QUEEN GERTRUDE,1,0,0
+776,4,5,OPHELIA,OPHELIA,"Say you? Nay, pray you, mark. He is dead and gone, lady, He is dead and gone; At his head a grass-green turf, At his heels a stone. Oh, ho!",30,139,QUEEN GERTRUDE,QUEEN GERTRUDE,1,1,0
+778,4,5,OPHELIA,OPHELIA,"Pray you, mark. White his shroud as the mountain snow--",10,55,QUEEN GERTRUDE,QUEEN GERTRUDE,0,0,0
+780,4,5,OPHELIA,OPHELIA,Larded all with sweet flowers; Which bewept to the ground did not go With true-love showers.,16,92,QUEEN GERTRUDE,KING CLAUDIUS,0,0,0
+782,4,5,OPHELIA,OPHELIA,"Well, God dild you. They say the owl was a baker's daughter. Lord, we know what we are but know not what we may be. God be at your table.",30,137,KING CLAUDIUS,KING CLAUDIUS,0,0,0
+784,4,5,OPHELIA,OPHELIA,"Pray let's have no words of this, but when they ask you what it means, say you this: Tomorrow is Saint Valentine's day, All in the morning betime, And I a maid at your window, To be your Valentine. Then up he rose and donned his clothes And dupped the chamber door, Let in the maid, that out a maid Never departed more.",63,319,KING CLAUDIUS,KING CLAUDIUS,0,0,0
+786,4,5,OPHELIA,OPHELIA,"Indeed, without an oath, I'll make an end on 't: By Gis and by Saint Charity, Alack and fie for shame, Young men will do 't, if they come to 't; By Cock, they are to blame. Quoth she ""Before you tumbled me, You promised me to wed."" He answers: ""So would I 'a done, by yonder sun, An thou hadst not come to my bed.""",66,314,KING CLAUDIUS,KING CLAUDIUS,0,0,0
+788,4,5,OPHELIA,OPHELIA,"I hope all will be well. We must be patient, but I cannot choose but weep to think they would lay him i' th' cold ground. My brother shall know of it. And so I thank you for your good counsel. Come, my coach! Good night, ladies, good night, sweet ladies, good night, good night.",55,278,KING CLAUDIUS,KING CLAUDIUS,0,1,0
+816,4,5,OPHELIA,OPHELIA,"They bore him barefaced on the bier, Hey non nonny, nonny, hey nonny, And in his grave rained many a tear. Fare you well, my dove.",26,130,LAERTES,LAERTES,0,0,0
+818,4,5,OPHELIA,OPHELIA,"You must sing ""A-down a-down""--and you ""Call him a-down-a.""--O, how the wheel becomes it! It is the false steward that stole his master's daughter.",24,147,LAERTES,LAERTES,0,1,0
+820,4,5,OPHELIA,OPHELIA,"There's rosemary, that's for remembrance. Pray you, love, remember. And there is pansies, that's for thoughts.",16,110,LAERTES,LAERTES,0,0,0
+822,4,5,OPHELIA,OPHELIA,"There's fennel for you, and columbines. There's rue for you, and here's some for me; we may call it herb of grace o' Sundays. You must wear your rue with a difference. There's a daisy. I would give you some violets, but they withered all when my father died. They say he made a good end. For bonny sweet Robin is all my joy.",64,324,LAERTES,LAERTES,0,0,0
+824,4,5,OPHELIA,OPHELIA,"And will he not come again? And will he not come again? No, no, he is dead. Go to thy deathbed. He never will come again. His beard was as white as snow, All flaxen was his poll. He is gone, he is gone, And we cast away moan. God 'a mercy on his soul. And of all Christians' souls, I pray God. God be wi' you.",67,309,LAERTES,LAERTES,1,0,0

@@ -1,0 +1,18 @@
+# Algorithmic Silence: Computational Analysis of Hamlet
+# Core Dependencies for Data Processing, NLP, Network Science, Figure Generation, and Testing
+
+# Data & Numerical Processing
+pandas>=2.2.0
+numpy>=1.26.0
+scipy>=1.12.0
+
+# Network Science & Visualization
+networkx>=3.2
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# NLP & Computational Linguistics
+nltk>=3.9.0
+
+# Testing & Verification
+pytest>=8.0.0

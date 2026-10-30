@@ -1,0 +1,116 @@
+transition_id,direction,ophelia_turn_id,partner_turn_id,partner_character,act,scene,ophelia_lines,partner_lines,ophelia_snippet,partner_snippet
+1,INCOMING,135,134,LAERTES,1,3,778-778,772-776,Do you doubt that?,"My necessaries are embarked. Farewell. And, sister, as the w"
+2,OUTGOING,135,136,LAERTES,1,3,778-778,780-786,Do you doubt that?,"For Hamlet, and the trifling of his favor, Hold it a fashion"
+3,INCOMING,137,136,LAERTES,1,3,788-788,780-786,No more but so?,"For Hamlet, and the trifling of his favor, Hold it a fashion"
+4,OUTGOING,137,138,LAERTES,1,3,788-788,790-825,No more but so?,"Think it no more. For nature, crescent, does not grow alone "
+5,INCOMING,139,138,LAERTES,1,3,827-834,790-825,I shall the effect of this good lesson keep As watchman to m,"Think it no more. For nature, crescent, does not grow alone "
+6,OUTGOING,139,140,LAERTES,1,3,827-834,836-842,I shall the effect of this good lesson keep As watchman to m,"O, fear me not. I stay too long. But here my father comes. A"
+7,INCOMING,145,144,LAERTES,1,3,884-885,880-882,"'Tis in my memory locked, And you yourself shall keep the ke","Farewell, Ophelia, and remember well What I have said to you"
+8,OUTGOING,145,146,LAERTES,1,3,884-885,887-887,"'Tis in my memory locked, And you yourself shall keep the ke",Farewell.
+9,INCOMING,148,147,POLONIUS,1,3,892-894,889-890,"So please you, something touching the Lord Hamlet.","What is 't, Ophelia, he hath said to you?"
+10,OUTGOING,148,149,POLONIUS,1,3,892-894,896-905,"So please you, something touching the Lord Hamlet.","Marry, well bethought. 'Tis told me he hath very oft of late"
+11,INCOMING,150,149,POLONIUS,1,3,907-909,896-905,"He hath, my lord, of late made many tenders Of his affection","Marry, well bethought. 'Tis told me he hath very oft of late"
+12,OUTGOING,150,151,POLONIUS,1,3,907-909,911-914,"He hath, my lord, of late made many tenders Of his affection","Affection, puh! You speak like a green girl Unsifted in such"
+13,INCOMING,152,151,POLONIUS,1,3,916-917,911-914,"I do not know, my lord, what I should think.","Affection, puh! You speak like a green girl Unsifted in such"
+14,OUTGOING,152,153,POLONIUS,1,3,916-917,919-924,"I do not know, my lord, what I should think.","Marry, I will teach you. Think yourself a baby That you have"
+15,INCOMING,154,153,POLONIUS,1,3,926-928,919-924,"My lord, he hath importuned me with love In honorable fashio","Marry, I will teach you. Think yourself a baby That you have"
+16,OUTGOING,154,155,POLONIUS,1,3,926-928,930-931,"My lord, he hath importuned me with love In honorable fashio","Ay, ""fashion"" you may call it. Go to, go to!"
+17,INCOMING,156,155,POLONIUS,1,3,933-935,930-931,"And hath given countenance to his speech, my lord, With almo","Ay, ""fashion"" you may call it. Go to, go to!"
+18,OUTGOING,156,157,POLONIUS,1,3,933-935,937-958,"And hath given countenance to his speech, my lord, With almo","Ay, springes to catch woodcocks. I do know, When the blood b"
+19,INCOMING,158,157,POLONIUS,1,3,960-960,937-958,"I shall obey, my lord.","Ay, springes to catch woodcocks. I do know, When the blood b"
+20,INCOMING,275,274,POLONIUS,2,1,1566-1567,1559-1564,"O, my lord, my lord, I have been so affrighted!","Farewell. How now, Ophelia, what's the matter?"
+21,OUTGOING,275,276,POLONIUS,2,1,1566-1567,1569-1569,"O, my lord, my lord, I have been so affrighted!","With what, i' th' name of God?"
+22,INCOMING,277,276,POLONIUS,2,1,1571-1579,1569-1569,"My lord, as I was sewing in my closet, Lord Hamlet, with his","With what, i' th' name of God?"
+23,OUTGOING,277,278,POLONIUS,2,1,1571-1579,1581-1582,"My lord, as I was sewing in my closet, Lord Hamlet, with his",Mad for thy love?
+24,INCOMING,279,278,POLONIUS,2,1,1584-1585,1581-1582,"My lord, I do not know, But truly I do fear it.",Mad for thy love?
+25,OUTGOING,279,280,POLONIUS,2,1,1584-1585,1587-1587,"My lord, I do not know, But truly I do fear it.",What said he?
+26,INCOMING,281,280,POLONIUS,2,1,1589-1603,1587-1587,He took me by the wrist and held me hard. Then goes he to th,What said he?
+27,OUTGOING,281,282,POLONIUS,2,1,1589-1603,1605-1612,He took me by the wrist and held me hard. Then goes he to th,"Come, go with me. I will go seek the King. This is the very "
+28,INCOMING,283,282,POLONIUS,2,1,1614-1617,1605-1612,"No, my good lord, but as you did command I did repel his let","Come, go with me. I will go seek the King. This is the very "
+29,OUTGOING,283,284,POLONIUS,2,1,1614-1617,1619-1630,"No, my good lord, but as you did command I did repel his let",That hath made him mad. I am sorry that with better heed and
+30,INCOMING,462,461,QUEEN GERTRUDE,3,1,2575-2575,2568-2573,"Madam, I wish it may.","I shall obey you. And for your part, Ophelia, I do wish That"
+31,OUTGOING,462,463,POLONIUS,3,1,2575-2575,2578-2586,"Madam, I wish it may.","Ophelia, walk you here.--Gracious, so please you, We will be"
+32,INCOMING,467,466,HAMLET,3,1,2640-2641,2603-2638,"Good my lord, How does your Honor for this many a day?",To be or not to be--that is the question: Whether 'tis noble
+33,OUTGOING,467,468,HAMLET,3,1,2640-2641,2643-2643,"Good my lord, How does your Honor for this many a day?","I humbly thank you, well."
+34,INCOMING,469,468,HAMLET,3,1,2645-2648,2643-2643,"My lord, I have remembrances of yours That I have longed lon","I humbly thank you, well."
+35,OUTGOING,469,470,HAMLET,3,1,2645-2648,2650-2651,"My lord, I have remembrances of yours That I have longed lon","No, not I. I never gave you aught."
+36,INCOMING,471,470,HAMLET,3,1,2653-2660,2650-2651,"My honored lord, you know right well you did, And with them ","No, not I. I never gave you aught."
+37,OUTGOING,471,472,HAMLET,3,1,2653-2660,2662-2662,"My honored lord, you know right well you did, And with them ","Ha, ha, are you honest?"
+38,INCOMING,473,472,HAMLET,3,1,2664-2664,2662-2662,My lord?,"Ha, ha, are you honest?"
+39,OUTGOING,473,474,HAMLET,3,1,2664-2664,2666-2666,My lord?,Are you fair?
+40,INCOMING,475,474,HAMLET,3,1,2668-2668,2666-2666,What means your Lordship?,Are you fair?
+41,OUTGOING,475,476,HAMLET,3,1,2668-2668,2670-2671,What means your Lordship?,"That if you be honest and fair, your honesty should admit no"
+42,INCOMING,477,476,HAMLET,3,1,2673-2674,2670-2671,"Could beauty, my lord, have better commerce than with honest","That if you be honest and fair, your honesty should admit no"
+43,OUTGOING,477,478,HAMLET,3,1,2673-2674,2676-2680,"Could beauty, my lord, have better commerce than with honest","Ay, truly, for the power of beauty will sooner transform hon"
+44,INCOMING,479,478,HAMLET,3,1,2682-2682,2676-2680,"Indeed, my lord, you made me believe so.","Ay, truly, for the power of beauty will sooner transform hon"
+45,OUTGOING,479,480,HAMLET,3,1,2682-2682,2684-2686,"Indeed, my lord, you made me believe so.","You should not have believed me, for virtue cannot so inocul"
+46,INCOMING,481,480,HAMLET,3,1,2688-2688,2684-2686,I was the more deceived.,"You should not have believed me, for virtue cannot so inocul"
+47,OUTGOING,481,482,HAMLET,3,1,2688-2688,2690-2700,I was the more deceived.,Get thee to a nunnery. Why wouldst thou be a breeder of sinn
+48,INCOMING,483,482,HAMLET,3,1,2702-2702,2690-2700,"At home, my lord.",Get thee to a nunnery. Why wouldst thou be a breeder of sinn
+49,OUTGOING,483,484,HAMLET,3,1,2702-2702,2704-2705,"At home, my lord.",Let the doors be shut upon him that he may play the fool now
+50,INCOMING,485,484,HAMLET,3,1,2707-2707,2704-2705,"O, help him, you sweet heavens!",Let the doors be shut upon him that he may play the fool now
+51,OUTGOING,485,486,HAMLET,3,1,2707-2707,2709-2715,"O, help him, you sweet heavens!","If thou dost marry, I'll give thee this plague for thy dowry"
+52,INCOMING,487,486,HAMLET,3,1,2717-2717,2709-2715,"Heavenly powers, restore him!","If thou dost marry, I'll give thee this plague for thy dowry"
+53,OUTGOING,487,488,HAMLET,3,1,2717-2717,2719-2727,"Heavenly powers, restore him!","I have heard of your paintings too, well enough. God hath gi"
+54,INCOMING,489,488,HAMLET,3,1,2729-2742,2719-2727,"O, what a noble mind is here o'erthrown! The courtier's, sol","I have heard of your paintings too, well enough. God hath gi"
+55,OUTGOING,489,490,KING CLAUDIUS,3,1,2729-2742,2744-2758,"O, what a noble mind is here o'erthrown! The courtier's, sol",Love? His affections do not that way tend; Nor what he spake
+56,INCOMING,521,520,HAMLET,3,2,2946-2946,2944-2944,"No, my lord.","Lady, shall I lie in your lap?"
+57,OUTGOING,521,522,HAMLET,3,2,2946-2946,2948-2948,"No, my lord.","I mean, my head upon your lap?"
+58,INCOMING,523,522,HAMLET,3,2,2950-2950,2948-2948,"Ay, my lord.","I mean, my head upon your lap?"
+59,OUTGOING,523,524,HAMLET,3,2,2950-2950,2952-2952,"Ay, my lord.",Do you think I meant country matters?
+60,INCOMING,525,524,HAMLET,3,2,2954-2954,2952-2952,"I think nothing, my lord.",Do you think I meant country matters?
+61,OUTGOING,525,526,HAMLET,3,2,2954-2954,2956-2957,"I think nothing, my lord.",That's a fair thought to lie between maids' legs.
+62,INCOMING,527,526,HAMLET,3,2,2959-2959,2956-2957,"What is, my lord?",That's a fair thought to lie between maids' legs.
+63,OUTGOING,527,528,HAMLET,3,2,2959-2959,2961-2961,"What is, my lord?",Nothing.
+64,INCOMING,529,528,HAMLET,3,2,2963-2963,2961-2961,"You are merry, my lord.",Nothing.
+65,OUTGOING,529,530,HAMLET,3,2,2963-2963,2965-2965,"You are merry, my lord.","Who, I?"
+66,INCOMING,531,530,HAMLET,3,2,2967-2967,2965-2965,"Ay, my lord.","Who, I?"
+67,OUTGOING,531,532,HAMLET,3,2,2967-2967,2969-2972,"Ay, my lord.","O God, your only jig-maker. What should a man do but be merr"
+68,INCOMING,533,532,HAMLET,3,2,2974-2974,2969-2972,"Nay, 'tis twice two months, my lord.","O God, your only jig-maker. What should a man do but be merr"
+69,OUTGOING,533,534,HAMLET,3,2,2974-2974,2976-2983,"Nay, 'tis twice two months, my lord.","So long? Nay, then, let the devil wear black, for I'll have "
+70,INCOMING,535,534,HAMLET,3,2,3000-3000,2976-2983,"What means this, my lord?","So long? Nay, then, let the devil wear black, for I'll have "
+71,OUTGOING,535,536,HAMLET,3,2,3000-3000,3002-3003,"What means this, my lord?","Marry, this is miching mallecho. It means mischief."
+72,INCOMING,537,536,HAMLET,3,2,3005-3006,3002-3003,Belike this show imports the argument of the play.,"Marry, this is miching mallecho. It means mischief."
+73,OUTGOING,537,538,HAMLET,3,2,3005-3006,3011-3012,Belike this show imports the argument of the play.,We shall know by this fellow. The players cannot keep counse
+74,INCOMING,539,538,HAMLET,3,2,3014-3014,3011-3012,Will he tell us what this show meant?,We shall know by this fellow. The players cannot keep counse
+75,OUTGOING,539,540,HAMLET,3,2,3014-3014,3016-3018,Will he tell us what this show meant?,"Ay, or any show that you will show him. Be not you ashamed t"
+76,INCOMING,541,540,HAMLET,3,2,3020-3021,3016-3018,"You are naught, you are naught. I'll mark the play.","Ay, or any show that you will show him. Be not you ashamed t"
+77,OUTGOING,541,542,PROLOGUE,3,2,3020-3021,3023-3026,"You are naught, you are naught. I'll mark the play.","For us and for our tragedy, Here stooping to your clemency, "
+78,INCOMING,544,543,HAMLET,3,2,3030-3030,3028-3028,"'Tis brief, my lord.",Is this a prologue or the posy of a ring?
+79,OUTGOING,544,545,HAMLET,3,2,3030-3030,3032-3032,"'Tis brief, my lord.",As woman's love.
+80,INCOMING,564,563,HAMLET,3,2,3159-3159,3147-3157,"You are as good as a chorus, my lord.","""The Mousetrap."" Marry, how? Tropically. This play is the im"
+81,OUTGOING,564,565,HAMLET,3,2,3159-3159,3161-3162,"You are as good as a chorus, my lord.","I could interpret between you and your love, if I could see "
+82,INCOMING,566,565,HAMLET,3,2,3164-3164,3161-3162,"You are keen, my lord, you are keen.","I could interpret between you and your love, if I could see "
+83,OUTGOING,566,567,HAMLET,3,2,3164-3164,3166-3167,"You are keen, my lord, you are keen.",It would cost you a groaning to take off mine edge.
+84,INCOMING,568,567,HAMLET,3,2,3169-3169,3166-3167,Still better and worse.,It would cost you a groaning to take off mine edge.
+85,OUTGOING,568,569,HAMLET,3,2,3169-3169,3171-3174,Still better and worse.,"So you mis-take your husbands.--Begin, murderer. Pox, leave "
+86,INCOMING,572,571,HAMLET,3,2,3192-3192,3186-3189,The King rises.,He poisons him i' th' garden for his estate. His name's Gonz
+87,OUTGOING,572,573,HAMLET,3,2,3192-3192,3194-3194,The King rises.,"What, frighted with false fire?"
+88,INCOMING,772,771,QUEEN GERTRUDE,4,5,4288-4289,4279-4283,Where is the beauteous Majesty of Denmark?,"Let her come in. To my sick soul (as sin's true nature is), "
+89,OUTGOING,772,773,QUEEN GERTRUDE,4,5,4288-4289,4291-4291,Where is the beauteous Majesty of Denmark?,"How now, Ophelia?"
+90,INCOMING,774,773,QUEEN GERTRUDE,4,5,4293-4297,4291-4291,How should I your true love know From another one? By his co,"How now, Ophelia?"
+91,OUTGOING,774,775,QUEEN GERTRUDE,4,5,4293-4297,4299-4300,How should I your true love know From another one? By his co,"Alas, sweet lady, what imports this song?"
+92,INCOMING,776,775,QUEEN GERTRUDE,4,5,4302-4307,4299-4300,"Say you? Nay, pray you, mark. He is dead and gone, lady, He ","Alas, sweet lady, what imports this song?"
+93,OUTGOING,776,777,QUEEN GERTRUDE,4,5,4302-4307,4309-4309,"Say you? Nay, pray you, mark. He is dead and gone, lady, He ","Nay, but Ophelia--"
+94,INCOMING,778,777,QUEEN GERTRUDE,4,5,4311-4312,4309-4309,"Pray you, mark. White his shroud as the mountain snow--","Nay, but Ophelia--"
+95,OUTGOING,778,779,QUEEN GERTRUDE,4,5,4311-4312,4317-4317,"Pray you, mark. White his shroud as the mountain snow--","Alas, look here, my lord."
+96,INCOMING,780,779,QUEEN GERTRUDE,4,5,4319-4322,4317-4317,Larded all with sweet flowers; Which bewept to the ground di,"Alas, look here, my lord."
+97,OUTGOING,780,781,KING CLAUDIUS,4,5,4319-4322,4324-4324,Larded all with sweet flowers; Which bewept to the ground di,"How do you, pretty lady?"
+98,INCOMING,782,781,KING CLAUDIUS,4,5,4326-4328,4324-4324,"Well, God dild you. They say the owl was a baker's daughter.","How do you, pretty lady?"
+99,OUTGOING,782,783,KING CLAUDIUS,4,5,4326-4328,4330-4330,"Well, God dild you. They say the owl was a baker's daughter.",Conceit upon her father.
+100,INCOMING,784,783,KING CLAUDIUS,4,5,4332-4341,4330-4330,"Pray let's have no words of this, but when they ask you what",Conceit upon her father.
+101,OUTGOING,784,785,KING CLAUDIUS,4,5,4332-4341,4343-4343,"Pray let's have no words of this, but when they ask you what",Pretty Ophelia--
+102,INCOMING,786,785,KING CLAUDIUS,4,5,4345-4355,4343-4343,"Indeed, without an oath, I'll make an end on 't: By Gis and ",Pretty Ophelia--
+103,OUTGOING,786,787,KING CLAUDIUS,4,5,4345-4355,4357-4357,"Indeed, without an oath, I'll make an end on 't: By Gis and ",How long hath she been thus?
+104,INCOMING,788,787,KING CLAUDIUS,4,5,4359-4364,4357-4357,"I hope all will be well. We must be patient, but I cannot ch",How long hath she been thus?
+105,OUTGOING,788,789,KING CLAUDIUS,4,5,4359-4364,4366-4392,"I hope all will be well. We must be patient, but I cannot ch","Follow her close; give her good watch, I pray you. O, this i"
+106,INCOMING,816,815,LAERTES,4,5,4523-4527,4508-4521,"They bore him barefaced on the bier, Hey non nonny, nonny, h","How now, what noise is that? O heat, dry up my brains! Tears"
+107,OUTGOING,816,817,LAERTES,4,5,4523-4527,4529-4531,"They bore him barefaced on the bier, Hey non nonny, nonny, h","Hadst thou thy wits and didst persuade revenge, It could not"
+108,INCOMING,818,817,LAERTES,4,5,4533-4536,4529-4531,"You must sing ""A-down a-down""--and you ""Call him a-down-a.""-","Hadst thou thy wits and didst persuade revenge, It could not"
+109,OUTGOING,818,819,LAERTES,4,5,4533-4536,4538-4538,"You must sing ""A-down a-down""--and you ""Call him a-down-a.""-",This nothing's more than matter.
+110,INCOMING,820,819,LAERTES,4,5,4540-4542,4538-4538,"There's rosemary, that's for remembrance. Pray you, love, re",This nothing's more than matter.
+111,OUTGOING,820,821,LAERTES,4,5,4540-4542,4544-4545,"There's rosemary, that's for remembrance. Pray you, love, re",A document in madness: thoughts and remembrance fitted.
+112,INCOMING,822,821,LAERTES,4,5,4547-4553,4544-4545,"There's fennel for you, and columbines. There's rue for you,",A document in madness: thoughts and remembrance fitted.
+113,OUTGOING,822,823,LAERTES,4,5,4547-4553,4555-4557,"There's fennel for you, and columbines. There's rue for you,","Thought and afflictions, passion, hell itself She turns to f"
+114,INCOMING,824,823,LAERTES,4,5,4559-4572,4555-4557,"And will he not come again? And will he not come again? No, ","Thought and afflictions, passion, hell itself She turns to f"
+115,OUTGOING,824,825,LAERTES,4,5,4559-4572,4574-4574,"And will he not come again? And will he not come again? No, ","Do you see this, O God?"

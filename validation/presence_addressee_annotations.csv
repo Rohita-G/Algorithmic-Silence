@@ -1,0 +1,176 @@
+annotation_id,turn_id,speaker,act,scene,source_lines,honorific_count,matched_text,dialogue_snippet,addressee,addressee_rank_relation,contextual_evidence,ambiguity_status
+ANN-0001,65,POLONIUS,1,2,427-431,1,my lord,"Hath, my lord, wrung from me my slow leave By laborsome petition, and at last Up...",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign monarch (KING CLAUDIUS).,CLEAR
+ANN-0002,69,HAMLET,1,2,444-445,1,my lord,"Not so, my lord; I am too much in the sun.",MULTIPLE_OR_AMBIGUOUS,VARIABLE,Courtly address or dramatic soliloquy reflection.,AMBIGUOUS
+ANN-0003,81,HORATIO,1,2,568-569,1,my lord,"The same, my lord, and your poor servant ever.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0004,85,HORATIO,1,2,583-584,1,my lord,"A truant disposition, good my lord.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0005,87,HORATIO,1,2,594-595,1,My lord,"My lord, I came to see your father's funeral.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0006,89,HORATIO,1,2,601-602,1,my lord,"Indeed, my lord, it followed hard upon.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0007,91,HORATIO,1,2,611-612,1,my lord,"Where, my lord?",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0008,95,HORATIO,1,2,623-624,1,My lord,"My lord, I think I saw him yesternight.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0009,97,HORATIO,1,2,628-629,1,My lord,"My lord, the King your father.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0010,103,MARCELLUS,1,2,662-663,1,My lord,"My lord, upon the platform where we watch.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0011,105,HORATIO,1,2,668-674,1,My lord,"My lord, I did, But answer made it none. Yet once methought It lifted up its hea...",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0012,109,ALL,1,2,686-686,1,my lord,"We do, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0013,111,ALL,1,2,691-691,1,my lord,"Armed, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0014,113,ALL,1,2,695-695,1,My lord,"My lord, from head to foot.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0015,115,HORATIO,1,2,699-700,1,my lord,"O, yes, my lord, he wore his beaver up.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0016,142,LAERTES,1,3,874-875,1,my lord,"Most humbly do I take my leave, my lord.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing King Claudius for departure leave or revenge compact.,CLEAR
+ANN-0017,150,OPHELIA,1,3,907-909,1,my lord,"He hath, my lord, of late made many tenders Of his affection to me.",POLONIUS,SUPERIOR_PATRIARCH,Conversation in Act 1 Scene 3 between daughter and father (Polonius).,CLEAR
+ANN-0018,152,OPHELIA,1,3,916-917,1,my lord,"I do not know, my lord, what I should think.",POLONIUS,SUPERIOR_PATRIARCH,Conversation in Act 1 Scene 3 between daughter and father (Polonius).,CLEAR
+ANN-0019,154,OPHELIA,1,3,926-928,1,My lord,"My lord, he hath importuned me with love In honorable fashion--",POLONIUS,SUPERIOR_PATRIARCH,Conversation in Act 1 Scene 3 between daughter and father (Polonius).,CLEAR
+ANN-0020,156,OPHELIA,1,3,933-935,1,my lord,"And hath given countenance to his speech, my lord, With almost all the holy vows...",POLONIUS,SUPERIOR_PATRIARCH,Conversation in Act 1 Scene 3 between daughter and father (Polonius).,CLEAR
+ANN-0021,158,OPHELIA,1,3,960-960,1,my lord,"I shall obey, my lord.",POLONIUS,SUPERIOR_PATRIARCH,Conversation in Act 1 Scene 3 between daughter and father (Polonius).,CLEAR
+ANN-0022,164,HORATIO,1,4,980-984,1,my lord,"Indeed, I heard it not. It then draws near the season Wherein the spirit held hi...",HAMLET,SUPERIOR_ROYAL,Horatio's primary dramatic interlocutor.,CLEAR
+ANN-0023,168,HORATIO,1,4,1026-1026,1,my lord,"Look, my lord, it comes.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0024,174,HORATIO,1,4,1065-1066,1,my lord,"Do not, my lord.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0025,176,HORATIO,1,4,1074-1084,1,my lord,"What if it tempt you toward the flood, my lord? Or to the dreadful summit of the...",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0026,178,MARCELLUS,1,4,1089-1090,1,my lord,"You shall not go, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0027,207,HORATIO,1,5,1279-1279,2,My lord; my lord,"My lord, my lord!",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0028,211,MARCELLUS,1,5,1287-1287,1,my lord,"Illo, ho, ho, my lord!",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0029,214,HORATIO,1,5,1294-1294,1,my lord,"What news, my lord?",HAMLET,SUPERIOR_ROYAL,Horatio's primary dramatic interlocutor.,CLEAR
+ANN-0030,216,HORATIO,1,5,1298-1299,1,my lord,"Good my lord, tell it.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0031,218,HORATIO,1,5,1303-1304,1,my lord,"Not I, my lord, by heaven.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0032,219,MARCELLUS,1,5,1306-1306,1,my lord,"Nor I, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0033,220,HAMLET,1,5,1308-1313,1,my lord,"How say you, then? Would heart of man once think it? But you'll be secret? HORAT...",MULTIPLE_OR_AMBIGUOUS,VARIABLE,Courtly address or dramatic soliloquy reflection.,AMBIGUOUS
+ANN-0034,222,HORATIO,1,5,1319-1321,1,my lord,"There needs no ghost, my lord, come from the grave To tell us this.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0035,224,HORATIO,1,5,1331-1332,1,my lord,"These are but wild and whirling words, my lord.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0036,226,HORATIO,1,5,1338-1338,1,my lord,"There's no offense, my lord.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0037,228,HORATIO,1,5,1349-1349,1,my lord,"What is 't, my lord? We will.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0038,229,HAMLET,1,5,1351-1354,1,My lord,"Never make known what you have seen tonight. HORATIO/MARCELLUS My lord, we will ...",MULTIPLE_OR_AMBIGUOUS,VARIABLE,Courtly address or dramatic soliloquy reflection.,AMBIGUOUS
+ANN-0039,231,HORATIO,1,5,1358-1358,1,my lord,"In faith, my lord, not I.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0040,232,MARCELLUS,1,5,1360-1360,1,my lord,"Nor I, my lord, in faith.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0041,234,MARCELLUS,1,5,1365-1365,1,my lord,"We have sworn, my lord, already.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0042,238,HORATIO,1,5,1377-1377,1,my lord,"Propose the oath, my lord.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0043,249,REYNALDO,2,1,1446-1446,1,my lord,"I will, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0044,251,REYNALDO,2,1,1453-1453,1,My lord,"My lord, I did intend it.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0045,253,REYNALDO,2,1,1468-1468,1,my lord,"Ay, very well, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0046,255,REYNALDO,2,1,1480-1480,1,my lord,"As gaming, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0047,257,REYNALDO,2,1,1485-1485,1,My lord,"My lord, that would dishonor him.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0048,261,REYNALDO,2,1,1502-1502,1,my lord,"Ay, my lord, I would know that.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0049,263,REYNALDO,2,1,1517-1517,1,my lord,"Very good, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0050,267,REYNALDO,2,1,1543-1544,1,My lord,"My lord, I have.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0051,269,REYNALDO,2,1,1548-1548,1,my lord,Good my lord.,UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0052,271,REYNALDO,2,1,1553-1553,1,my lord,"I shall, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0053,273,REYNALDO,2,1,1557-1557,1,my lord,"Well, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0054,275,OPHELIA,2,1,1566-1567,2,my lord; my lord,"O, my lord, my lord, I have been so affrighted!",POLONIUS,SUPERIOR_PATRIARCH,Conversation in Act 2 Scene 1 between daughter and father (Polonius).,CLEAR
+ANN-0055,277,OPHELIA,2,1,1571-1579,1,My lord,"My lord, as I was sewing in my closet, Lord Hamlet, with his doublet all unbrace...",POLONIUS,SUPERIOR_PATRIARCH,Conversation in Act 2 Scene 1 between daughter and father (Polonius).,CLEAR
+ANN-0056,279,OPHELIA,2,1,1584-1585,1,My lord,"My lord, I do not know, But truly I do fear it.",POLONIUS,SUPERIOR_PATRIARCH,Conversation in Act 2 Scene 1 between daughter and father (Polonius).,CLEAR
+ANN-0057,295,POLONIUS,2,2,1706-1713,1,my lord,"Have I, my lord? I assure my good liege I hold my duty as I hold my soul, Both t...",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign monarch (KING CLAUDIUS).,CLEAR
+ANN-0058,325,POLONIUS,2,2,1908-1908,1,my lord,"Do you know me, my lord?",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0059,327,POLONIUS,2,2,1912-1912,1,my lord,"Not I, my lord.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0060,329,POLONIUS,2,2,1916-1916,1,my lord,"Honest, my lord?",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0061,331,POLONIUS,2,2,1921-1921,1,my lord,"That's very true, my lord.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0062,333,POLONIUS,2,2,1927-1927,1,my lord,"I have, my lord.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0063,335,POLONIUS,2,2,1933-1938,1,my lord,How say you by that? Still harping on my daughter. Yet he knew me not at first; ...,KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0064,337,POLONIUS,2,2,1942-1942,1,my lord,"What is the matter, my lord?",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0065,339,POLONIUS,2,2,1946-1946,1,my lord,"I mean the matter that you read, my lord.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0066,341,POLONIUS,2,2,1958-1959,1,my lord,"Though this be madness, yet there is method in 't.--Will you walk out of the air...",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0067,343,POLONIUS,2,2,1963-1969,1,My lord,"Indeed, that's out of the air. How pregnant sometimes his replies are! A happine...",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0068,345,POLONIUS,2,2,1975-1975,1,my lord,"Fare you well, my lord.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0069,355,ROSENCRANTZ,2,2,2004-2004,1,my lord,"Neither, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0070,359,ROSENCRANTZ,2,2,2014-2015,1,my lord,"None, my lord, but that the world's grown honest.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0071,361,GUILDENSTERN,2,2,2022-2022,1,my lord,"Prison, my lord?",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0072,365,ROSENCRANTZ,2,2,2032-2032,1,my lord,"We think not so, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0073,374,ROSENCRANTZ,2,2,2067-2067,1,my lord,"To visit you, my lord, no other occasion.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0074,376,GUILDENSTERN,2,2,2076-2076,1,my lord,"What should we say, my lord?",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0075,378,ROSENCRANTZ,2,2,2084-2084,1,my lord,"To what end, my lord?",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0076,382,GUILDENSTERN,2,2,2098-2098,1,My lord,"My lord, we were sent for.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0077,384,ROSENCRANTZ,2,2,2120-2121,1,My lord,"My lord, there was no such stuff in my thoughts.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0078,386,ROSENCRANTZ,2,2,2126-2129,1,my lord,"To think, my lord, if you delight not in man, what Lenten entertainment the play...",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0079,400,ROSENCRANTZ,2,2,2185-2186,1,my lord,"Ay, that they do, my lord--Hercules and his load too.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0080,410,POLONIUS,2,2,2228-2228,1,My lord,"My lord, I have news to tell you.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0081,411,HAMLET,2,2,2230-2231,1,My lord,"My lord, I have news to tell you: when Roscius was an actor in Rome--",POLONIUS,INFERIOR_COUNCILLOR,Ironic / mocked deference to Lord Chamberlain Polonius.,CLEAR
+ANN-0082,412,POLONIUS,2,2,2233-2233,1,my lord,"The actors are come hither, my lord.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0083,418,POLONIUS,2,2,2252-2252,1,my lord,"What a treasure had he, my lord?",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0084,422,POLONIUS,2,2,2262-2263,1,my lord,"If you call me ""Jephthah,"" my lord: I have a daughter that I love passing well.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0085,424,POLONIUS,2,2,2267-2267,1,my lord,"What follows then, my lord?",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0086,428,POLONIUS,2,2,2327-2328,1,my lord,"'Fore God, my lord, well spoken, with good accent and good discretion.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0087,437,HAMLET,2,2,2394-2399,1,my lord,"'Tis well. I'll have thee speak out the rest of this soon.--Good my lord, will y...",POLONIUS,INFERIOR_COUNCILLOR,Ironic / mocked deference to Lord Chamberlain Polonius.,CLEAR
+ANN-0088,438,POLONIUS,2,2,2401-2402,1,My lord,"My lord, I will use them according to their desert.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0089,442,FIRST PLAYER,2,2,2417-2417,1,my lord,"Ay, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0090,444,FIRST PLAYER,2,2,2424-2424,1,my lord,"Ay, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0091,446,ROSENCRANTZ,2,2,2430-2430,1,my lord,Good my lord.,UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0092,459,ROSENCRANTZ,3,1,2553-2554,1,my lord,"We shall, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0093,465,POLONIUS,3,1,2596-2597,1,my lord,"I hear him coming. Let's withdraw, my lord.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign monarch (KING CLAUDIUS).,CLEAR
+ANN-0094,467,OPHELIA,3,1,2640-2641,1,my lord,"Good my lord, How does your Honor for this many a day?",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 1 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0095,469,OPHELIA,3,1,2645-2648,1,My lord,"My lord, I have remembrances of yours That I have longed long to redeliver. I pr...",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 1 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0096,471,OPHELIA,3,1,2653-2660,1,my lord,"My honored lord, you know right well you did, And with them words of so sweet br...",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 1 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0097,473,OPHELIA,3,1,2664-2664,1,My lord,My lord?,HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 1 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0098,477,OPHELIA,3,1,2673-2674,1,my lord,"Could beauty, my lord, have better commerce than with honesty?",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 1 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0099,479,OPHELIA,3,1,2682-2682,1,my lord,"Indeed, my lord, you made me believe so.",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 1 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0100,483,OPHELIA,3,1,2702-2702,1,my lord,"At home, my lord.",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 1 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0101,491,POLONIUS,3,1,2760-2772,1,My lord,It shall do well. But yet do I believe The origin and commencement of his grief ...,KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign monarch (KING CLAUDIUS).,CLEAR
+ANN-0102,497,HAMLET,3,2,2826-2839,1,my lord,"O, reform it altogether. And let those that play your clowns speak no more than ...",MULTIPLE_OR_AMBIGUOUS,VARIABLE,Courtly address or dramatic soliloquy reflection.,AMBIGUOUS
+ANN-0103,500,ROSENCRANTZ,3,2,2846-2846,1,my lord,"Ay, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0104,506,HORATIO,3,2,2897-2899,1,my lord,"Well, my lord. If he steal aught the whilst this play is playing And 'scape dete...",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0105,511,HAMLET,3,2,2920-2921,1,My lord,"No, nor mine now. My lord, you played once i' th' university, you say?",MULTIPLE_OR_AMBIGUOUS,VARIABLE,Courtly address or dramatic soliloquy reflection.,AMBIGUOUS
+ANN-0106,512,POLONIUS,3,2,2923-2924,1,my lord,"That did I, my lord, and was accounted a good actor.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0107,516,ROSENCRANTZ,3,2,2934-2935,1,my lord,"Ay, my lord. They stay upon your patience.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0108,521,OPHELIA,3,2,2946-2946,1,my lord,"No, my lord.",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 2 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0109,523,OPHELIA,3,2,2950-2950,1,my lord,"Ay, my lord.",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 2 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0110,525,OPHELIA,3,2,2954-2954,1,my lord,"I think nothing, my lord.",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 2 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0111,527,OPHELIA,3,2,2959-2959,1,my lord,"What is, my lord?",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 2 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0112,529,OPHELIA,3,2,2963-2963,1,my lord,"You are merry, my lord.",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 2 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0113,531,OPHELIA,3,2,2967-2967,1,my lord,"Ay, my lord.",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 2 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0114,533,OPHELIA,3,2,2974-2974,1,my lord,"Nay, 'tis twice two months, my lord.",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 2 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0115,535,OPHELIA,3,2,3000-3000,1,my lord,"What means this, my lord?",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 2 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0116,544,OPHELIA,3,2,3030-3030,1,my lord,"'Tis brief, my lord.",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 2 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0117,547,PLAYER QUEEN,3,2,3045-3058,1,my lord,So many journeys may the sun and moon Make us again count o'er ere love be done!...,UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0118,564,OPHELIA,3,2,3159-3159,1,my lord,"You are as good as a chorus, my lord.",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 2 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0119,566,OPHELIA,3,2,3164-3164,1,my lord,"You are keen, my lord, you are keen.",HAMLET,SUPERIOR_ROYAL,Dialogue in Act 3 Scene 2 addressing Prince Hamlet (courtly suitor / Crown Prince).,CLEAR
+ANN-0120,574,QUEEN GERTRUDE,3,2,3196-3196,1,my lord,How fares my lord?,HAMLET,MONARCH_CONSORT,Addressing royal husband (Claudius) or son (Hamlet).,CLEAR
+ANN-0121,583,HORATIO,3,2,3228-3228,1,my lord,"Very well, my lord.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0122,587,GUILDENSTERN,3,2,3243-3244,1,my lord,"Good my lord, vouchsafe me a word with you.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0123,593,GUILDENSTERN,3,2,3257-3257,1,my lord,"No, my lord, with choler.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0124,595,GUILDENSTERN,3,2,3264-3266,1,my lord,"Good my lord, put your discourse into some frame and start not so wildly from my...",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0125,599,GUILDENSTERN,3,2,3275-3279,1,my lord,"Nay, good my lord, this courtesy is not of the right breed. If it shall please y...",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0126,601,ROSENCRANTZ,3,2,3283-3283,1,my lord,"What, my lord?",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0127,607,ROSENCRANTZ,3,2,3304-3304,1,My lord,"My lord, you once did love me.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0128,609,ROSENCRANTZ,3,2,3308-3310,1,my lord,"Good my lord, what is your cause of distemper? You do surely bar the door upon y...",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0129,613,GUILDENSTERN,3,2,3328-3329,1,my lord,"O, my lord, if my duty be too bold, my love is too unmannerly.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0130,615,GUILDENSTERN,3,2,3334-3334,1,My lord,"My lord, I cannot.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0131,619,GUILDENSTERN,3,2,3342-3342,1,my lord,"I know no touch of it, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0132,623,POLONIUS,3,2,3367-3368,1,My lord,"My lord, the Queen would speak with you, and presently.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0133,638,POLONIUS,3,3,3453-3463,1,My lord,"My lord, he's going to his mother's closet. Behind the arras I'll convey myself ...",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing sovereign King Claudius in council / court.,CLEAR
+ANN-0134,639,KING CLAUDIUS,3,3,3465-3503,1,my lord,"Thanks, dear my lord. O, my offense is rank, it smells to heaven; It hath the pr...",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0135,708,ROSENCRANTZ,4,2,3972-3973,1,my lord,"What have you done, my lord, with the dead body?",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0136,714,ROSENCRANTZ,4,2,3990-3990,1,my lord,"Take you me for a sponge, my lord?",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0137,716,ROSENCRANTZ,4,2,4000-4000,1,my lord,"I understand you not, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0138,718,ROSENCRANTZ,4,2,4005-4006,1,My lord,"My lord, you must tell us where the body is and go with us to the King.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0139,720,GUILDENSTERN,4,2,4011-4011,1,my lord,"A ""thing,"" my lord?",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0140,723,ROSENCRANTZ,4,3,4039-4041,1,my lord,"Where the dead body is bestowed, my lord, We cannot get from him.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0141,725,ROSENCRANTZ,4,3,4045-4046,1,my lord,"Without, my lord; guarded, to know your pleasure.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0142,750,CAPTAIN,4,4,4157-4157,1,my lord,"I will do 't, my lord.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0143,764,ROSENCRANTZ,4,4,4204-4204,1,my lord,"Will 't please you go, my lord?",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0144,779,QUEEN GERTRUDE,4,5,4317-4317,1,my lord,"Alas, look here, my lord.",KING CLAUDIUS,MONARCH_CONSORT,Addressing royal husband (Claudius) or son (Hamlet).,CLEAR
+ANN-0145,792,MESSENGER,4,5,4404-4414,1,my lord,"Save yourself, my lord. The ocean, overpeering of his list, Eats not the flats w...",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0146,841,MESSENGER,4,7,4705-4707,1,my lord,"Letters, my lord, from Hamlet. These to your Majesty, this to the Queen.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0147,843,MESSENGER,4,7,4711-4714,1,my lord,"Sailors, my lord, they say. I saw them not. They were given me by Claudio. He re...",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0148,847,LAERTES,4,7,4733-4737,1,my lord,"I am lost in it, my lord. But let him come. It warms the very sickness in my hea...",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing King Claudius for departure leave or revenge compact.,CLEAR
+ANN-0149,849,LAERTES,4,7,4743-4744,1,my lord,"Ay, my lord, So you will not o'errule me to a peace.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing King Claudius for departure leave or revenge compact.,CLEAR
+ANN-0150,851,LAERTES,4,7,4756-4758,1,My lord,"My lord, I will be ruled, The rather if you could devise it so That I might be t...",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing King Claudius for departure leave or revenge compact.,CLEAR
+ANN-0151,853,LAERTES,4,7,4768-4768,1,my lord,"What part is that, my lord?",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing King Claudius for departure leave or revenge compact.,CLEAR
+ANN-0152,861,LAERTES,4,7,4813-4813,1,my lord,"What out of this, my lord?",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing King Claudius for departure leave or revenge compact.,CLEAR
+ANN-0153,874,LAERTES,4,7,4924-4931,1,my lord,"Too much of water hast thou, poor Ophelia, And therefore I forbid my tears. But ...",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing King Claudius for departure leave or revenge compact.,CLEAR
+ANN-0154,906,HORATIO,5,1,5067-5067,1,my lord,"It might, my lord.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0155,907,HAMLET,5,1,5069-5073,2,my Lord; my Lord,"Or of a courtier, which could say ""Good morrow, sweet lord! How dost thou, sweet...",MULTIPLE_OR_AMBIGUOUS,VARIABLE,Courtly address or dramatic soliloquy reflection.,AMBIGUOUS
+ANN-0156,908,HORATIO,5,1,5075-5075,1,my lord,"Ay, my lord.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0157,912,HORATIO,5,1,5107-5107,1,my lord,"Not a jot more, my lord.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0158,914,HORATIO,5,1,5111-5111,1,my lord,"Ay, my lord, and of calves' skins too.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0159,952,HORATIO,5,1,5235-5235,1,my lord,"What's that, my lord?",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0160,956,HORATIO,5,1,5244-5244,1,my lord,"E'en so, my lord.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0161,976,HORATIO,5,1,5347-5347,1,my lord,"Good my lord, be quiet.",HAMLET,SUPERIOR_ROYAL,Horatio's primary dramatic interlocutor.,CLEAR
+ANN-0162,987,HORATIO,5,2,5412-5412,1,my lord,"Remember it, my lord!",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0163,995,HORATIO,5,2,5463-5463,1,my lord,"Ay, good my lord.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0164,1014,OSRIC,5,2,5560-5560,1,my lord,"It is indifferent cold, my lord, indeed.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0165,1016,OSRIC,5,2,5565-5568,2,my lord; My lord,"Exceedingly, my lord; it is very sultry, as 'twere--I cannot tell how. My lord, ...",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0166,1018,OSRIC,5,2,5573-5579,1,my lord,"Nay, good my lord, for my ease, in good faith. Sir, here is newly come to court ...",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0167,1043,OSRIC,5,2,5664-5665,1,my lord,"I mean, my lord, the opposition of your person in trial.",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0168,1051,LORD,5,2,5700-5704,1,My lord,"My lord, his Majesty commended him to you by young Osric, who brings back to him...",UNKNOWN,EQUAL,Inferred from surrounding dialogue,CLEAR
+ANN-0169,1057,HORATIO,5,2,5720-5720,1,my lord,"You will lose, my lord.",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0170,1059,HORATIO,5,2,5727-5727,1,my lord,"Nay, good my lord--",HAMLET,SUPERIOR_ROYAL,Direct conversational response to Hamlet.,CLEAR
+ANN-0171,1072,HAMLET,5,2,5801-5802,1,my lord,"Very well, my lord. Your Grace has laid the odds o' th' weaker side.",MULTIPLE_OR_AMBIGUOUS,VARIABLE,Courtly address or dramatic soliloquy reflection.,AMBIGUOUS
+ANN-0172,1079,LAERTES,5,2,5835-5835,1,my lord,"Come, my lord.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing King Claudius for departure leave or revenge compact.,CLEAR
+ANN-0173,1092,QUEEN GERTRUDE,5,2,5873-5874,1,my lord,"I will, my lord; I pray you pardon me.",HAMLET,MONARCH_CONSORT,Addressing royal husband (Claudius) or son (Hamlet).,CLEAR
+ANN-0174,1096,LAERTES,5,2,5884-5885,1,My lord,"My lord, I'll hit him now.",KING CLAUDIUS,SUPERIOR_MONARCH,Addressing King Claudius for departure leave or revenge compact.,CLEAR
+ANN-0175,1106,HORATIO,5,2,5912-5913,1,my lord,"They bleed on both sides.--How is it, my lord?",HAMLET,SUPERIOR_ROYAL,Attending Hamlet during the fencing match and dying moments.,CLEAR
